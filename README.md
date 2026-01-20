@@ -1,19 +1,13 @@
-Software Engineering student (B.Eng) at TUAS ICT.  
-Practical projects in Python / C, focusing on tooling, networking, and hardware-related software.
+Software Engineering student (B.Eng) @ TUAS ICT.  
+Python / C projects focused on tooling + networking + hardware-adjacent things.
 
-# Location
-Turku, Finland
+📍 Turku, Finland
 
-# Tech
-- Python, C
-- Git, Linux, Windows
-- Networking / Sockets
+**Tech:** Python, C, Git, Linux/Windows, Sockets
 
-# Featured Projects
-- **tt-shell** >> A custom Python shell with built-in features and tools  
-- **Nearby-BLE-Monitor** >> Bluetooth device monitor using PyQt5  
-- **socket-cloudflare** >> Low-level socket connection tests (Winsock  Cloudflare DNS)
+**Projects:**
+- **tt-shell** >> custom Python shell + tools  
+- **Nearby-BLE-Monitor** >> BLE monitor (PyQt5)  
+- **socket-cloudflare** >> Winsock + Cloudflare DNS experiments  
 
-# Currently Learning
-- Networking, programming and computer science fundamentals
-- Maintainable software practices & secure software
+**Learning:** fundamentals, maintainable code, security basics
