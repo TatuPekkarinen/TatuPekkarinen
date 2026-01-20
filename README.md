@@ -4,7 +4,7 @@ Python / C projects focused on tooling + networking + hardware-adjacent things.
 
 📍 Turku, Finland
 
-**Tech:** Python, C, Git, Linux/Windows, Sockets
+**Tech:** Python, C, Git, Github, Linux/Windows, virtual environments (UV) and virtual machines
 
 **Projects:**
 - **tt-shell** >> Custom Python shell + tools  
