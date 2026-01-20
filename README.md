@@ -1,4 +1,4 @@
-# **Tatu Pekkarinen**
+# **tt-nxt**
 Software Engineering student (B.Eng) @ TUAS ICT.  
 Python / C projects focused on tooling + networking + hardware-adjacent things.
 
@@ -11,4 +11,4 @@ Python / C projects focused on tooling + networking + hardware-adjacent things.
 - **Nearby-BLE-Monitor** >> BLE monitor (PyQt5)  
 - **socket-cloudflare** >> Winsock + Cloudflare DNS experiments  
 
-**Learning:** fundamentals, maintainable code, security basics
+**Learning:** fundamentals, maintainable code and security basics
