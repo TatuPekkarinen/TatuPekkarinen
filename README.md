@@ -1,5 +1,5 @@
 # **Tatu Pekkarinen <tt-nxt>**
-Software Engineering student (B.Eng) @ TUAS ICT.  
+Early stage software engineering student (B.Eng) @ TUAS ICT.  
 Python / C projects focused on tooling + networking + hardware-adjacent things.
 
 📍 Turku, Finland
