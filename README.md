@@ -6,7 +6,7 @@ Python / C projects focused on tooling + networking + hardware-adjacent things.
 **Tech:** Python, C, Git, Linux/Windows, Sockets
 
 **Projects:**
-- **tt-shell** >> custom Python shell + tools  
+- **tt-shell** >> Custom Python shell + tools  
 - **Nearby-BLE-Monitor** >> BLE monitor (PyQt5)  
 - **socket-cloudflare** >> Winsock + Cloudflare DNS experiments  
 
