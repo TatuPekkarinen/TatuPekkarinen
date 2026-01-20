@@ -1,14 +1,14 @@
 # **Tatu Pekkarinen <tt-nxt>**
 Early stage software engineering student (B.Eng) @ TUAS ICT.  
-Python / C projects focused on tooling + networking + hardware-adjacent things.
+C-language and Python projects focused on tooling + networking + hardware-adjacent things.
 
 📍 Turku, Finland
 
 **Tech:** Python, C, Git, Github, Linux/Windows, virtual environments (UV) and virtual machines
 
 **Projects:**
-- **tt-shell** >> Custom Python shell + tools  
-- **Nearby-BLE-Monitor** >> BLE monitor (PyQt5)  
+- **tt-shell** >> Custom Python shell + tools (Most of my projects merge onto this one) 
+- **Nearby-BLE-Monitor** >> BLE monitor
 - **socket-cloudflare** >> Winsock + Cloudflare DNS experiments  
 
-**Learning:** fundamentals, maintainable code and security basics
+**Learning:** maintainable code, OS-level programming / scripting and security basics
