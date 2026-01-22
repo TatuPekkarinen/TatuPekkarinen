@@ -8,7 +8,7 @@
 
 **Projects:**
 - **tt-shell** >> *Custom Python shell + tools (Most of my projects merge to this one)*
-- - **CORDIC-Algorithm** >> *Implementation of CORDIC. Mathematical sin & cos approximation.*
+- **CORDIC-Algorithm** >> *Implementation of CORDIC. Mathematical sin & cos approximation.*
 - **Nearby-BLE-Monitor** >> *BLE monitor / discovery*
 - **socket-cloudflare** >> *Winsock + Cloudflare DNS experiments*  
 
