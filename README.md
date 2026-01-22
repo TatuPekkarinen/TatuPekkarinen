@@ -6,7 +6,7 @@
 
 **Tech** >> *Python, C-language, Git & Github, Linux & Windows platforms, virtual environments (UV) and virtual machines*
 
-**Learning** >> *maintainable code, OS-level programming / scripting and security basics*
+**Learning** >> *Maintainable code, scripting and security basics*
 
 **Projects:**
 - **tt-shell** >> *Custom Python shell + tools (Most of my projects merge to this one)*
