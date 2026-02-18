@@ -1,9 +1,8 @@
-# **Tatu Pekkarinen <tt-nxt>** 
 > 1st year software engineering student (B.Eng) @ TUAS ICT.  
 *C-language and Python projects focused on tooling + networking + close to the hardware programs.*
 > *Turku, Finland*
 
-**Tech** >> *Python, C-language, Git & Github, Linux & Windows platforms, virtual environments (UV) and virtual machines*
+> *Python, C-language, Git & Github, Linux & Windows platforms, virtual environments (UV) and virtual machines*
 
 **Learning** >> *Maintainable code, scripting and security basics*
 
