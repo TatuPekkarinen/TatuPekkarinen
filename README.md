@@ -4,6 +4,8 @@
 
 > *Python, C-language, Git & Github, Linux & Windows platforms, virtual environments (UV) and virtual machines*
 
+Main interest is how hardware / electronics interact with low-level code.
+
 **Public projects:**
 - **tt-shell** >> *Custom Python shell + tools (Most of my projects merge to this one)*
 - **CORDIC-Algorithm** >> *Implementation of CORDIC. Mathematical sin & cos approximation.*
