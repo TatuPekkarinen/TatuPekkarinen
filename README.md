@@ -7,7 +7,5 @@
 Main interest is how hardware / electronics interact with low-level code.
 
 **Public projects:**
-- **CORDIC-Algorithm** >> *Implementation of CORDIC. Mathematical sin & cos approximation.*
-- **tt-shell** >> *Custom Python shell + tools (Most of my projects merge to this one)*
-- **socket-cloudflare** >> *Winsock + Cloudflare DNS experiments*  
-- **Nearby-BLE-Monitor** >> *BLE monitor / discovery*
+- **CORDIC-Algorithm** >> *Iterative vector rotations to approximate sine and cosine*
+- **tt-shell** >> *Custom Python shell + tools*
